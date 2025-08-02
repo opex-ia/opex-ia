@@ -1,6 +1,3 @@
-# opex-ia
-uma inteligência artificial, uma sociedade inteligente❤️
-
 # Opex ia
 
 [![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)](./LICENSE)
