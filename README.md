@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/badge/Twitter-opex-white?logo=x&logoColor=white)]()
 [![Version](https://img.shields.io/badge/version-0.1.0-yellow.svg)]()
 [![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)]()
-![GitHub stars](https://img.shields.io/github/opex-ia)
+![GitHub stars](https://img.shields.io/github/opex-ia/opex-ia)
 > **Uma inteligência artificial. Uma sociedade inteligente. ❤️**
 
 ---
